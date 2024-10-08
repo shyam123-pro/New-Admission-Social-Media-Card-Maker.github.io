@@ -1,1 +1,1 @@
-# calorieproject.git
+# calorieproject.github
